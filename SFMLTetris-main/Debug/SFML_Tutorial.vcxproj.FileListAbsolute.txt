@@ -1,0 +1,2 @@
+C:\Users\chafi\Downloads\SFMLTetris-main\Debug\STAR tetris.exe
+C:\Users\chafi\Downloads\SFMLTetris-main\Debug\STAR tetris.pdb

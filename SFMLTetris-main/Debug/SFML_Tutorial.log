@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (SFML_Tutorial.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\chafi\Downloads\SFMLTetris-main\main.cpp(207,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chafi\Downloads\SFMLTetris-main\main.cpp(207,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chafi\Downloads\SFMLTetris-main\main.cpp(253,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\chafi\Downloads\SFMLTetris-main\main.cpp(400,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chafi\Downloads\SFMLTetris-main\main.cpp(400,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML_Tutorial.vcxproj -> C:\Users\chafi\Downloads\SFMLTetris-main\Debug\STAR tetris.exe
